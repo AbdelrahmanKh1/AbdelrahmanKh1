@@ -2,20 +2,20 @@
 
 ### Software Engineer | Full-Stack Development | AWS & Cloud Infrastructure
 
-I'm a Software Engineering graduate interested in building scalable applications and reliable cloud solutions. I have hands-on experience developing web applications and working with modern technologies across frontend, backend, databases, and AWS infrastructure.
+I'm a Software Engineering graduate from the German University in Cairo (GUC), interested in building useful applications and solving real-world problems through technology.
 
-I enjoy solving technical problems, learning new technologies, and turning ideas into practical solutions.
+I have hands-on experience working on web and application development, from building user interfaces and backend services to integrating APIs, databases, and cloud services. I enjoy learning new technologies, exploring how systems work, and turning ideas into working products.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering graduate from the German University in Cairo (GUC).
-- 💻 Experienced in full-stack web and application development.
-- ☁️ AWS Solutions Architect – Associate.
-- 🏗️ Interested in cloud architecture, DevOps, and scalable systems.
-- 🔭 Currently improving my skills in AWS, Linux, Docker, and CI/CD.
-- 🤝 Open to collaborating on software engineering, backend, and cloud projects.
+- 🎓 Software Engineering graduate from the German University in Cairo.
+- 💻 Experience in full-stack web and application development.
+- ☁️ AWS Certified Solutions Architect – Associate.
+- 🏗️ Interested in cloud architecture, backend development, and DevOps.
+- 🔭 Currently exploring AWS, Linux, Docker, and CI/CD.
+- 🤝 Always interested in learning, building, and collaborating on new projects.
 
 ---
 
@@ -47,7 +47,9 @@ MySQL · PostgreSQL · SQL Server
 
 #### AWS Scalable Web Application
 
-Designed and deployed a scalable Node.js application on AWS using:
+A hands-on AWS project where I deployed a Node.js application and worked on building a scalable and secure cloud infrastructure.
+
+Some of the services and features I worked with:
 
 - Amazon VPC with public and private subnets across two Availability Zones.
 - Application Load Balancer and EC2 Auto Scaling.
@@ -56,23 +58,28 @@ Designed and deployed a scalable Node.js application on AWS using:
 - AWS Secrets Manager and Systems Manager.
 - CloudWatch monitoring and SNS notifications.
 
-[View Project →](https://github.com/AbdelrahmanKh1/AWS-Scalable-Web-App-Project)
+🔗 [View the project on GitHub](https://github.com/AbdelrahmanKh1/AWS-Scalable-Web-App-Project)
 
 ---
 
-### 💼 Other Projects
+### 💼 Projects I've Worked On
 
-- **Resillienz:** Full-stack personal training platform built with Next.js, MySQL, and Paymob payment integration.
-- **El Gouna Film Festival:** Web development and API integration for an official event platform.
-- **Talk Tracker Mobile:** Expense-tracking mobile application using React Native, Expo, and Supabase.
+**[El Gouna Film Festival](https://elgounafilmfestival.com/)**  
+Worked on web development and API integration for the official festival website, helping deliver event-related content and functionality.
+
+**[Resillienz](https://resillienz.com/)**  
+A personal training platform built with Next.js, MySQL, and Paymob payment integration, supporting program discovery, bookings, and online payments.
+
+**[Tamia Tiles](https://tamiatiles.com/)**  
+Worked on the development of a website for a tiles and surfaces business, contributing to its online presence and user experience.
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 - LinkedIn: [Abdelrahman Khaled](https://www.linkedin.com/in/abdelrahman-khaled-98a699249/)
 - GitHub: [@AbdelrahmanKh1](https://github.com/AbdelrahmanKh1)
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Thanks for stopping by! Feel free to check out my projects and repositories.
